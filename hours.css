@@ -1,0 +1,10 @@
+html{
+    background-color: black;
+    color: lawngreen;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table{
+    border: 1px solid;
+}
